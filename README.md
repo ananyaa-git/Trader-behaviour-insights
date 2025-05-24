@@ -1,9 +1,13 @@
 # Trader-behaviour-insights
 JUNIOR DATA SCIENCE PROJECT
 -----------------------------
+'Bitcoin.ipynb' Contains the Main code Which explains Relationship between trader performance and market sentiment.
 
 
-Here's a breakdown of how the notebook addresses each part of the task:
+greed.ipynb contains key findings from the data analysis (loading, exploration, cleaning, visualization), and suggests insights or next steps based on the analysis.
+
+
+Here's a breakdown of how Bitcoin notebook addresses each part of the task:
 
 Explore the relationship between trader performance and market sentiment:
 
