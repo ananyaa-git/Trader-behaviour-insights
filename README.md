@@ -1,5 +1,5 @@
 # Trader-behaviour-insights
-JUNIOR DATA SCIENCE PROJECT
+DATA SCIENCE PROJECT
 -----------------------------
 'Bitcoin.ipynb' Contains the Main code Which explains Relationship between trader performance and market sentiment.
 
